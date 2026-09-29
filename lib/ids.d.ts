@@ -1,0 +1,12 @@
+export declare const KIMI_CODE_OAUTH_ROUTE = "kimi-code-oauth";
+export declare const KIMI_PI_PROVIDER = "kimi-coding";
+export declare const KIMI_CODE_OAUTH_AUTH_FILENAME = "kimi-code-oauth.json";
+export declare const KIMI_CODE_OAUTH_MODELS_CACHE_FILENAME = "kimi-code-models.json";
+export declare const KIMI_CODE_OAUTH_LOGIN_PATH = "/plugins/dsh-kimi-code/oauth/login";
+export declare const KIMI_CODE_OAUTH_STATUS_PATH = "/plugins/dsh-kimi-code/oauth/status";
+export declare const KIMI_CODE_OAUTH_LOGOUT_PATH = "/plugins/dsh-kimi-code/oauth/logout";
+export declare const KIMI_CODE_OAUTH_MODELS_PATH = "/plugins/dsh-kimi-code/oauth/models";
+export declare const CLAUDE_PI_PROVIDER = "claude";
+export declare const CODEX_PI_PROVIDER = "codex";
+export declare const XAI_PI_PROVIDER = "grok";
+export type CodingOAuthProviderSlug = "grok" | "codex" | "kimi" | "claude";
