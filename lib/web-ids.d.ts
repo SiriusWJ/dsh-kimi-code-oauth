@@ -3,3 +3,4 @@ export declare const KIMI_CODE_OAUTH_LOGIN_PATH = "/plugins/dsh-kimi-code/oauth/
 export declare const KIMI_CODE_OAUTH_LOGIN_CANCEL_PATH = "/plugins/dsh-kimi-code/oauth/login-cancel";
 export declare const KIMI_CODE_OAUTH_LOGOUT_PATH = "/plugins/dsh-kimi-code/oauth/logout";
 export declare const KIMI_CODE_OAUTH_MODELS_PATH = "/plugins/dsh-kimi-code/oauth/models";
+export declare const KIMI_CODE_OAUTH_USAGE_PATH = "/plugins/dsh-kimi-code/oauth/usage";
